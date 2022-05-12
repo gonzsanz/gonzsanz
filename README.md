@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm gonzsanz
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={gonzsanz}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?username=gonzsanz&theme=blue-green
 
 <!--
 **gonzsanz/gonzsanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
