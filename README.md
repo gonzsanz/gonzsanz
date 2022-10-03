@@ -4,3 +4,4 @@
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=gonzsanz)
+👉🏻 ![Visitor Count](https://profile-counter.glitch.me/gonzsanz/count.svg)
