@@ -3,5 +3,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzsanz&show_icons=true&theme=tokyonight)
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=gonzsanz)
 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/gonzsanz/count.svg)
