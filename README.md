@@ -28,3 +28,4 @@
 **IDEs**
 
 <code><img alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="width: 50px; height:50px;" /></code>&nbsp; 
+<code><img alt="intellij" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="width: 50px; height:50px;" /></code>&nbsp;
