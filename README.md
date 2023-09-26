@@ -2,9 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzsanz&show_icons=true&theme=tokyonight)
 
-👉🏻 ![Visitor Count](https://profile-counter.glitch.me/gonzsanz/count.svg)
+## 👀 ![Visitor Count](https://profile-counter.glitch.me/gonzsanz/count.svg)
 
-## 👇 &nbsp;Current studying
+## 👇 &nbsp;Skills
 
 **Front-end**
 
@@ -24,6 +24,11 @@
 **Cloud Servers**
 
 <code><img alt="aws" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" style="width:50px; height:50px;"/></code>&nbsp;
+
+**Frameworks**
+
+<code><img alt="Spring boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="width:50px; height:50px;"/></code>&nbsp;
+<code><img alt="Spring boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="width:50px; height:50px;"/></code>&nbsp;
 
 **IDEs**
 
